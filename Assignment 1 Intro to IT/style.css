@@ -1,13 +1,22 @@
 * {
-    background-color: darkgray;
+    background-color: lightgray;
     font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
 }
 
-h1 {
+.header h1 {
     text-align: center;
+    background: darkgray;
+    margin: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    font-weight: bold;
 }
 
 .about-me {
+    margin-top: 50px;
     margin-left: 100px;
     margin-right: 150px;
 
