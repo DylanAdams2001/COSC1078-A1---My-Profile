@@ -1,0 +1,21 @@
+* {
+    background-color: darkgray;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.about-me {
+    margin-left: 100px;
+    margin-right: 150px;
+
+}
+
+.project {
+    margin-left: 100px;
+    margin-right: 150px;
+    margin-top: 50px;
+
+}
