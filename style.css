@@ -13,6 +13,7 @@ h1 {
 }
 
 .header h1 {
+    color: white;
     padding-left: 70px;
     background: #776e6a;
     margin: 0px;
@@ -93,6 +94,7 @@ p{
 }
 
 .tests-par {
+    color: white;
     padding: 50px;
     background-color: #776e6a;
     margin-top: 50px;
@@ -101,6 +103,7 @@ p{
 }
 
 .tests-par h2 {
+    color: white;
     background-color: #776e6a;
     margin-bottom: 10px;
     
@@ -126,5 +129,41 @@ p{
     margin-right: 10px;
 }
 
+.project-div {
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
 
+.project-heading {
+    margin-bottom: 0px;
+}
+
+.project-p {
+    margin-top: 20px;
+}
+
+
+.footer-div {
+    padding: 100px;
+    background-color: #776e6a;
+    color: white;
+}
+
+
+.footer-div a {
+    color: white;
+    background-color: #776e6a;
+}
+
+.footer-div li {
+ 
+    background-color: #776e6a;
+    padding: 10px;
+}
+
+.footer-div ul {
+    background-color: #776e6a;
+    
+}
 
