@@ -72,7 +72,7 @@ p{
 }
 
  img:hover  {
-    transform: scale(1.8);
+    transform: scale(1.5);
     margin-left: 100px;
     transition: 1s ease;
 }
@@ -129,10 +129,21 @@ p{
     margin-right: 10px;
 }
 
+.football {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-left: 600px;
+}
+
+.football:hover {
+    margin-left: 550px;
+}
+
 .project-div {
     margin-top: 50px;
     margin-left: 250px;
     margin-right: 250px;
+    margin-bottom: 100px;
 }
 
 .project-heading {
@@ -145,19 +156,20 @@ p{
 
 
 .footer-div {
-    padding: 100px;
+    padding: 20px;
     background-color: #776e6a;
     color: white;
 }
 
 
 .footer-div a {
+    
     color: white;
     background-color: #776e6a;
 }
 
 .footer-div li {
- 
+    margin-left: 700px;
     background-color: #776e6a;
     padding: 10px;
 }
@@ -166,4 +178,6 @@ p{
     background-color: #776e6a;
     
 }
+
+
 
